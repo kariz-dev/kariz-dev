@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 I'm **[Muhammad Rizwan](https://muhammadrizwan.my.id/)** as a **_Frontend_ _Developer_** from Indonesia, I'm very passionate about building excellent website.
-I’m currently learning:
-- [React js](https://reactjs.org/)
+I’m currently learning: [Typescript](https://www.typescriptlang.org/)
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,7 +35,6 @@ I’m currently learning:
   </a>
 </p>
 
----
 
 ### Github Stats
 <p>
