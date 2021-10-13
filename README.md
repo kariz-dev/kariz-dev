@@ -1,7 +1,7 @@
-### Hi there 👋
+### ✨ Hi there 👋
 
 
-**kariz-dev/kariz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi I am **Muhammad Rizwan** is a **_Frontend_ _Developer_** 
 
 Here are some ideas to get you started:
 
