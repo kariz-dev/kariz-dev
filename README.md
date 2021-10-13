@@ -1,13 +1,10 @@
-## ✨ Hi there 👋
+### Hi there 👋
 
+I'm **[Muhammad Rizwan](https://muhammadrizwan.my.id/)** as a **_Frontend_ _Developer_** from Indonesia, I'm very passionate about building excellent website.
+I’m currently learning :
+- [React js]()
 
-Hi I am **Muhammad Rizwan** as a **_Frontend_ _Developer_** from Indonesia, I'm very passionate about building excellent website.
-
-### 🌱 I’m currently learning :
-- React.js
-
-### 📫 How to reach me: 
-- [Email : hello@muhammadrizwan.my.id](mailto:hello@muhammadrizwan.my.id)
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,23 +28,34 @@ Hi I am **Muhammad Rizwan** as a **_Frontend_ _Developer_** from Indonesia, I'm 
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/sea/products/illustrator.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> 
+  </a>
 </p>
 
-<h3 align="left">Design and Tools:</h3>
-<p align="left">
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
-    </a>
-    <a href="https://www.adobe.com/sea/products/illustrator.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> 
-    </a>
-    
-</p>
-
+---
 
 ## Github Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kariz-dev&count_private=true&show_icons=true&theme=tokyonight&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariz-dev&count_private=true&hide=html,scss,,ejs&theme=tokyonight&line_height=10">
+</p>
+
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://muhammadrizwan.my.id/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrizwan-my-id/) 
+   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammadrizwan.my.id)
+   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kariz_dev/) 
+   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles) 
+
+  <p align="center">
+    Show ❤️ by starring and forking repositories you find good!
+  </p>
 </p>
