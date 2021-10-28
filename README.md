@@ -1,12 +1,11 @@
+<a href="https://muhammadrizwan.my.id/"><img src="https://github.com/kariz-dev/kariz-dev/blob/main/devcard.svg" width="200" alt="Muhammad Rizwan"/></a>
 ### Hi there 👋
 
-<span>
+
 I'm **[Muhammad Rizwan](https://muhammadrizwan.my.id/)** as a **_Frontend_ _Developer_** from Indonesia, I'm very passionate about building excellent website.
 I’m currently learning: [Typescript](https://www.typescriptlang.org/)
-</span>
-<span>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kariz-dev/kariz-dev/blob/main/devcard.svg" width="400" alt="Muhammad Rizwan"/></a>
-</span>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
