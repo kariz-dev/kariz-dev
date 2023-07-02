@@ -27,9 +27,6 @@ I’m currently learning: [Typescript](https://www.typescriptlang.org/)
   <a href="https://wordpress.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -53,7 +50,7 @@ I’m currently learning: [Typescript](https://www.typescriptlang.org/)
     
    [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://muhammadrizwan.my.id/) 
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrizwan-my-id/) 
-   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hello@muhammadrizwan.my.id)
+   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammad.rizwan76146@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kariz_dev/) 
   
   </div>
